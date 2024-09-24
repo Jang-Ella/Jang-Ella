@@ -1,6 +1,6 @@
-## Intro
-<strong>Name : Jang Sohyun</strong><br>
-<strong>Major : INHA Artificial Intelligence</strong>
+## Jang Sohyun
+<strong>College : INHA University</strong><br>
+<strong>Major : Artificial Intelligence Engineering</strong>
 
 <br>
 
